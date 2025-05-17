@@ -13,3 +13,27 @@ Conforme avancen los días en el servidor, esta wiki también se actualizará, t
   - [Espacio reservado]
   - [Espacio reservado]
   - [Espacio reservado]
+
+# Contenido del Plugin
+
+# Objetos
+
+- **Armaduras**
+- **Armas**
+- **Herramientas**
+- **Trinkets**
+
+# Mecánicas
+
+- **Sistema de Teams**
+- **Eventos**
+- **Misiones**
+- **Rareza de Ítems**
+
+# Estructuras y Nuevas Dimensiones
+
+- **Nueva generación para el Overworld, así como la inclusión de nuevos mundos con aún más contenido por descubrir**
+
+# Jefes y Mini Jefes
+
+- Esta sección se actualizará conforme pasen los días
