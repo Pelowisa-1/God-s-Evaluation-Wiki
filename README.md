@@ -4,9 +4,9 @@
 
 **_Nota_**: Gran parte de la información sobre God's Evaluation 2 se comparte a través del servidor oficial de [Tech Studio](https://discord.gg/evnC7drvXz).
 
-Información de los Días
+# Información de los Días
 
-- aaa
+- Conforme avancen los dias en el servidor, la wiki también se actualizara, tratando de mantener informado a cualquier jugador que observe esto
   - aa
   - aa
   - aa
