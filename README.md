@@ -32,7 +32,7 @@ Conforme avancen los días en el servidor, esta wiki también se actualizará, t
 
 # Estructuras y Nuevas Dimensiones
 
-- **Nueva generación para el Overworld, así como la inclusión de nuevos mundos con aún más contenido por descubrir**
+- **Nueva generación para el Overworld, así como la inclusión de nuevos mundos con aún más contenido por descubrir.**
 
 # Jefes y Mini Jefes
 
